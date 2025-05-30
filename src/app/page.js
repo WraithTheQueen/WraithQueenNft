@@ -103,12 +103,12 @@ export default function Home() {
     Want some freemint? Sign up for the whitelist now and make sure you're part of the Wraith family!
   </p>
   <a
-    href="https://forms.gle/whitelist-form-link" // Ganti dengan link Google Form kamu
+    href="https://docs.google.com/forms/d/e/1FAIpQLScGEFs_dBy_miHQ7WVJnCMaHl0HSWwtshJ1k6iMgpMCO2ePjg/viewform?usp=header" // Ganti dengan link Google Form kamu
     target="_blank"
     rel="noopener noreferrer"
     className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full font-semibold shadow-md hover:bg-blue-700 transition"
   >
-    Daftar Whitelist
+    Whitelist
   </a>
 </div>
 
